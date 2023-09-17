@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LSShrivathsan
 - 👀 I’m interested in Full Stack Development,AI & Generative AI, Machine Learning and Data Science
 - 🌱 I’m currently learning HTML,CSS and Javascript
-- 💞️ I’m looking to collaborate on full stack web and app development, chatbot
+- 💞️ I’m looking to collaborate on full stack web and app development,NLP-chatbot
 - 📫 How to reach me - linkdin:https://www.linkedin.com/in/shrivathsan-l-s-a0a439257/, phone no: 9884765391
 
 <!---
